@@ -6,7 +6,6 @@
 
 using namespace std;
 
-
 vector<vector<int> > generagteWinningPatterns(int gridSize)
 {
     vector<vector<int> > patterns; 
