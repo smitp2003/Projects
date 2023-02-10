@@ -1,8 +1,5 @@
 # School-Projects
 //Smit Patel
-//final lab 
-//Date: 12-02-2022
-// in this final lab I created hangman and implimented a recursive method
 #include <iostream>
 #include <vector>
 #include <string>
